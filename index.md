@@ -6,5 +6,5 @@
 ## Number of applicants to science camps during the year (aggregated from multiple years)
 ![Ansøgninger igennem året](https://user-images.githubusercontent.com/8177646/112358388-97a21480-8cd0-11eb-8db4-b83fd3d9eba3.png)
 
-## Video showing my data visulisation course project (click to watch)
-[![Data vis project presentation](https://user-images.githubusercontent.com/8177646/112359208-53634400-8cd1-11eb-8084-9b167db78ee0.mp4)](https://user-images.githubusercontent.com/8177646/112359208-53634400-8cd1-11eb-8084-9b167db78ee0.mp4)
+## Video showing my data visulisation course project
+[![Data vis project presentation](https://user-images.githubusercontent.com/8177646/112517705-e87d4000-8d98-11eb-875f-14b8afea699b.mov)](https://user-images.githubusercontent.com/8177646/112359208-53634400-8cd1-11eb-8084-9b167db78ee0.mp4)
